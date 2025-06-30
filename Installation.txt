@@ -1,0 +1,4 @@
+- execute "npm install"
+- execute "npm run start"
+-execute "npx expo install expo-image-picker
+"
